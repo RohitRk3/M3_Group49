@@ -17,3 +17,6 @@
 |LLT2|Alarm Status|Press the button twice|All the LED's turn off at same time|All the LED's trun off at same time|Pass|
 |LLT3|Car battery status|Press the button thrice|All the LED's blink in the clockwise direction|All the LED's blink in the clockwise direction|Pass|
 |LLT4|Door status|Button is pressed four times|All the LED's blink in anticlockwise direction|All the LED's blink in anticlockwise direction|Pass|
+
+# Output
+![Uploading 2eF2Ui1Bue.gif…]()
