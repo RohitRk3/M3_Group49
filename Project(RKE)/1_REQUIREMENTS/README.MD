@@ -38,4 +38,4 @@ Remote Keyless Entry Systems (RKES) are also prone to flaws. The systems typical
     Why   :To lock the car remotely using a handy device.
     How   :When a button is flicked, it sends a coded signal by radio waves to a receiver unit in the car, which locks or unlocks the car
 ## Application
-    *Widely used in automobile Industry.
+    * Widely used in automobile Industry.
