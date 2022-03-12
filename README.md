@@ -2,7 +2,7 @@
 
 |Codiga Badges|Codacy Badge|
 |:--:|:--:|
-|![Codiga badge](https://api.codiga.io/project/31944/score/svg) ![Codiga badge](https://api.codiga.io/project/31944/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a2129b20fe6406cbb4df581a52fa18f)](https://www.codacy.com/gh/Sharatraddi/M3_Group49/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sharatraddi/M3_Group49&amp;utm_campaign=Badge_Grade)|
+|![Codiga badge](https://api.codiga.io/project/31951/score/svg) ![Codiga badge](https://api.codiga.io/project/31951/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/873cf49c05354e35a611ed86c21cbde3)](https://www.codacy.com/gh/RohitRk3/M3_Group49/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RohitRk3/M3_Group49&amp;utm_campaign=Badge_Grade)|
 # Folder Structure
 Folder Project -> RKE & Bicom| Description
 -------------------| -----------------------------------------
