@@ -1,7 +1,7 @@
 # Contribution
            *Rohit      -> print_lock() function,Git Repository
-           *Rahul      -> print_unlock() function
-           *Sharat     -> main() functions,print_alarm() function,Block Diagram
+           *Rahul      -> print_unlock() function,Block Diagram
+           *Sharat     -> main() functions,print_alarm() function
            *Roobashini -> approach_light() function,Information Gathering
   
     
