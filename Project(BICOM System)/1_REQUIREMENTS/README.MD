@@ -25,7 +25,7 @@ The extension of a unidirectional RKE system to a bidirectional RKE system is kn
 |Strength|Weakness|Opportunites|Threats|
 |--------|--------|------------|-------|
 |Easily Accesible|Delay between the commands|As now everything is being digitalized and market needs more of automation|Before moving on to the next task, the user should always ensure that the current one is done.|
-|Limited human interaction|System dependent if something goes wrong in system it may effect user|Low cost|
+|Limited human interaction|Low cost|System dependent if something goes wrong in system it may effect user|
 
 ## 5W & 1H
    * Who   : Who wants to control the actions/Status of car remotely.
