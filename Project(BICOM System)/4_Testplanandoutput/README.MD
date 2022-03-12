@@ -19,4 +19,4 @@
 |LLT4|Door status|Button is pressed four times|All the LED's blink in anticlockwise direction|All the LED's blink in anticlockwise direction|Pass|
 
 # Output
-![Uploading 2eF2Ui1Bue.gif…]()
+![2eF2Ui1Bue](https://user-images.githubusercontent.com/46928815/158012545-739f7ac2-5612-45b8-902c-e03047d121dc.gif)
