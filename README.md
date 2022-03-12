@@ -12,4 +12,4 @@ Folder Project -> RKE & Bicom| Description
 `4_TestplanAndOutput`| Documents with test plans and procedures & outputs
 `5_Report`      | Contains report
 `6_ImagesAndVideos` | Conatins all images and videos
-`7_Other`      | Archive of other things
+
