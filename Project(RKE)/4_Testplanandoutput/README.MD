@@ -17,3 +17,6 @@
 |LLT2|Unlock the door|Press the button twice|All the LED's turn off at same time|All the LED's trun off at same time|Pass|
 |LLT3|Activation & Deactivation of alarm|Press the button thrice|All the LED's blink in the clockwise direction|All the LED's blink in the clockwise direction|Pass|
 |LLT4|Approach the light|Button is pressed four times|All the LED's blink in anticlockwise direction|All the LED's blink in anticlockwise direction|Pass|
+
+# Output
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/46928815/158012931-032dbeeb-fc0b-4ffe-8d48-fc68f42a25a2.gif)
