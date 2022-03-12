@@ -22,17 +22,9 @@ The extension of a unidirectional RKE system to a bidirectional RKE system is kn
 |4|All LEDs should turn ON in anticlockwise manner when switch flicked 4 times|Technical|
 
 ## Swot analysis
-|Strength|Weakness|Opportunites|Threats|
-|--------|--------|------------|-------|
-|Easily Accesible|Delay between the commands|As now everything is being digitalized and market needs more of automation|Before moving on to the next task, the user should always ensure that the current one is done.|
-|Limited human interaction|Low cost|System dependent if something goes wrong in system it may effect user|
+![1647071505523](https://user-images.githubusercontent.com/46928815/158009280-fd2f7251-e6dd-43e2-8f21-0174c8381c74.png)
 
 ## 5W & 1H
-   * Who   : Who wants to control the actions/Status of car remotely.
-   * What  : Communication between the car and the remote.
-   * Where : Inside or outside the car.
-   * When  : User wants to know the status of the car.
-   * Why   : To know the status of the car remotely.
-   * How   : By pressing the button
+![1647071292097](https://user-images.githubusercontent.com/46928815/158009185-bc6fc445-d49c-4fda-9cab-2b3df7dd711b.png)
 
 
