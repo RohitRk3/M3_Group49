@@ -1,1 +1,60 @@
+# Report
+
+# BICOM SYSTEM
+
+
+## INTRODUCTION
+The extension of a unidirectional RKE system to a bidirectional RKE system is known as a BiCom system. The RKE delivers a radio wave to the receiver at a specific frequency, and the vehicle authenticates the fob by sending back the status. This project provides an overview of BiCom systems, covering their functional design and requirements, as well as their analysis and implementation on a variety of levels.
+
+## HIGH LEVEL REQUIREMENTS
+|ID|High level requirements| Category |
+|-|------------------------| ------- |
+|HLR1|Transmitter is required to transmit RF signals from the key|Technical|
+|HLR2|The signal must be received and verified by the receiver|Technical|
+|HLR3|Print window status when blue switch on|Technical|
+|HLR4|Print car battery info when blue switch press 3 times|Technical|
+|HLR5|Print Door status when blue switch press 4 times|Technical|
+
+## LOW LEVEL REQUIREMENTS
+|ID|LOW level requirements| Category |
+|-|------------------------| ------- |
+|LLR1|All LEDs should turn ON when switch flicked once|Technical|
+|LLR2|All LEDs should turn OFF when switch flicked twice|Technical|
+|LLR3|All LEDs should turn ON in clockwise manner when switch flicked thrice|Technical|
+|LLR4|All LEDs should turn ON in anticlockwise manner when switch flicked 4 times|Technical|
+
+## Swot analysis
+![1647071505523](https://user-images.githubusercontent.com/46928815/158009280-fd2f7251-e6dd-43e2-8f21-0174c8381c74.png)
+
+## 5W & 1H
+![1647071292097](https://user-images.githubusercontent.com/46928815/158009185-bc6fc445-d49c-4fda-9cab-2b3df7dd711b.png)
+
+# ARCHITECTURE
+## Behavioural Diagram
+![Screenshot (326)](https://user-images.githubusercontent.com/98874243/157909698-7c2cd9a6-c22e-474c-8ffa-bcc16a9201a3.png)
+## Structural Diagram
+![Screenshot (327)](https://user-images.githubusercontent.com/98874243/157909809-698e88f2-88a0-454f-882b-ea7634836501.png)
+
+# Test plan
+
+## High Level Test Plan:
+
+| ID | Description | Expected i/p | Expected o/p | Actual o/p | Test Status |
+| ----- | ----- | ------- |  ------- | ----- | ----- |
+|HLT1|Window Status|Button Press|It will show the window status|It will show the window status|Pass|
+|HLT2|Alarm Status|Button press|It will show the alarm status|It will show the alarm statusr|Pass|
+|HLT3|Car battery status|Button press|It will show the Car battery status|It will show the Car battery status|Pass|
+|HLT4|Door status|Button press|It will show the door status|It will show the door status|Pass|
+
+## Low Level Test Plan:
+
+| ID | Description | Expected i/p | Expected o/p | Actual o/p | Test Status |
+| ----- | ----- | ------- |  ------- | ----- | ----- |
+|LLT1|Window Status|Press the button once|All the LED's turn on at same time|All the LED's turn on at same time|Pass|
+|LLT2|Alarm Status|Press the button twice|All the LED's turn off at same time|All the LED's trun off at same time|Pass|
+|LLT3|Car battery status|Press the button thrice|All the LED's blink in the clockwise direction|All the LED's blink in the clockwise direction|Pass|
+|LLT4|Door status|Button is pressed four times|All the LED's blink in anticlockwise direction|All the LED's blink in anticlockwise direction|Pass|
+
+# Output
+![2eF2Ui1Bue](https://user-images.githubusercontent.com/46928815/158012545-739f7ac2-5612-45b8-902c-e03047d121dc.gif)
 
